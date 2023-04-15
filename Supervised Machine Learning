@@ -1,7 +1,7 @@
 %Project part of the "Applied Machine Learning in Python" course (Module 2) from University of Michigan and Coursera. 
 
 $ cat .gitattributes
-*.rb linguist-language=Python
+*.cls linguist-language=Python
 
 import numpy as np
 import pandas as pd
